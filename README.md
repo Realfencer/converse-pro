@@ -43,7 +43,7 @@ A real-time chat application built using the **MERN** stack (MongoDB, Express.js
 ### Clone the repository
 
 ```bash
-git clone https://github.com/sahilmd01/converse-pro.git
+git clone https://github.com/Realfencer/converse-pro.git
 cd converse-pro
 ````
 
@@ -159,8 +159,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🧑‍💻 Author
 
-**SAHIL**
-[GitHub](https://github.com/sahilmd01) • [LinkedIn](https://linkedin.com/in/codewithkinu) • [youtube](https://youtube.com/@codewithkinu)
+**SLIGER**
+[GitHub](https://github.com/Realfencer) • [LinkedIn](https://linkedin.com/in/codewithkinu) • [youtube](https://youtube.com/@codewithkinu)
 
 ```
 
